@@ -32,7 +32,7 @@ public class MenuActivity extends AppCompatActivity
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
 
-
+// Check if reached
 
 
         fragmentManager = getSupportFragmentManager();
